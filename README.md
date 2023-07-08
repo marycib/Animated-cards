@@ -7,14 +7,14 @@
 
 ## Table of contents
 
-- [Useful resources](#HTML and CSS)
-- [Author](#Maribel Mena)
-- [Acknowledgments](#animation with css)
+- Useful resources #HTML and CSS
+- Author #Maribel Mena
+- Acknowledgments #animation with css
 
 
 ### Screenshot
 
-![](![Alt text](animatedCards-1.png))
+(![Alt text](animatedCards-1.png))
 
 ### Links
 
